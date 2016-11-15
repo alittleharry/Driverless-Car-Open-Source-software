@@ -172,6 +172,27 @@ Rapid Development
 
 MAX’s development user interface supports configuration of a new autonomous system in minutes. Simply use our graphical interface to select your sensors and control systems from the provided library and just drop it on your vehicle and hit the road! 
 
+Simulation Capability
+
+Our solution includes an optional simulator toolset that allows you to test your autonomous vehicle under real-world conditions including sun, rain, snow, ice, and darkness. Nothing can compare to physical testing, but our simulation solution can help reduce development cycles and cost by letting your team test quickly and safely from their very own desk.
+
+Runs from Day 1
+
+With the included autonomous application, you will be ready to drive your vehicle without the need to write a single line of code. MAX handles all of the critical operating functions including logging, security, and system management so you don’t have to.
+
+Road-Ready
+
+MAX has operated in real-time environments for over a decade and has been tested with all major real-time operating systems. Further, MAX was built as a production grade system from day 1 and is in the process of certification as ISO 26262 ASIL x compliant. MAX is the one solution that works from the test bench to the test track to the manufacturing line without ever needing a rewrite.
+
+Flexible
+
+While MAX includes all required functions out of the box, you can quickly insert your own custom algorithms and logic into MAX. That way your existing investments in your current software can be re-used. MAX's layered architecture and robust API give you the flexibility to pick and choose what MAX will do and what parts you want to do yourself.
+
+World-Class Services
+
+With experienced, high quality autonomous engineers in short supply, you may want some help as you staff up your team. Perrone Robotics' Services Team is there to help any way you need it. We can fill in any gaps in expertise or we can implement an entire solution to your specs. And, of course, we provide world class support for our MAX platform. Help us help you, thats what we're here for!
+
+
 
 
 

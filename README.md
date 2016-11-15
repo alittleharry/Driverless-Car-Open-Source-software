@@ -47,5 +47,17 @@ Livit mobile app compatible
 Provides wireless connectivity to iOS and Android devices.
 http://www.bestbuy.com/site/360fly-4k-action-camera/5256502.p?skuId=5256502
 
+http://drivesimsimulator.com/en/
+
+The simulation program DriveSim allows you to practice driving as if you were commanding a real vehicle, thanks to its realistic situations and environment.
+Features
+
+    DriveSim scenarios include real traffic and pedestrians. With this program, you will have the positiblity of doing different tours with any climatic settings, timing and adhesion: driving at dusk, on slippery surfaces, snowy environments, with rain or even practice emergency braking with and without ABS.
+    With DriveSim you mayconduct initial training on track, practicing overtaking, driving on urban roads, service roads, roundabouts and efficient driving, among many other options.
+    Vehicles:Different types of vehicles may be used: diesel or petrol, front wheel drive, rear or 4x4, with manual or automatic, and different power (88HP, 114HP, and 147HP)
+    Languages (optional):Spanish, German, Portuguese, Basque, Catalan, English, French, Chinese, Italian, Portuguese (Brazil), Arabic and others.
+    Controlling students (optional): Management of students exercises performed by each of them with printed reports and listings.
+    To use DriveSim you need the DS -PAD:lighting levers, turn signals and wipers, seat belt and parking brake.
+
 
 

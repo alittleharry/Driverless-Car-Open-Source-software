@@ -160,6 +160,18 @@ The DAK system includes an embedded computer with software for defining and cont
 
 Built using the MAX™ general purpose robotics and automated vehicle operating system, the DAK inherits a long legacy of sophisticated fully autonomous robotics functions, maneuvers, and programmable behaviors. 
 
+https://perronerobotics.squarespace.com/max
+
+What is MAX?
+
+In short, MAX is the brain of a self-driving car or robot. MAX is a software platform engineered to make building new autonomous solutions fast and efficient. Using our graphical interface, MAX allows engineers to create autonomous solutions by snapping together pieces much like building with Legos. MAX works with all sensors regardless of brand and type to provide your solution with a comprehensive picture of the road and environment. Further, MAX works with all types of control systems for your autonomous vehicle including drive-by-wire and mechanical actuators. Unlike our competitors, MAX is real-time capable, has a path to ISO certification, and is a "full-stack" comprehensive autonomous vehicle software platform. MAX allows you to develop a solution that works not only in your lab and your test track but also in commercial production applications without requiring any rewrites.
+
+MAX stands for Mobile Autonomous 'X', whereby 'X' is a variable in which a robotics designer can define and create their robotics application of choice. 
+
+Rapid Development
+
+MAX’s development user interface supports configuration of a new autonomous system in minutes. Simply use our graphical interface to select your sensors and control systems from the provided library and just drop it on your vehicle and hit the road! 
+
 
 
 

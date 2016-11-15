@@ -102,6 +102,26 @@ Add a Camera to Your Drive
 
 For a complete navigation solution, Garmin DriveLuxe pairs with the BC™ 30 wireless backup camera (sold separately; professional installation recommended). Once connected, you can easily see vehicles, pedestrians and other obstacles right on the Garmin DriveLuxe display, as you move in reverse
 
+https://buy.garmin.com/en-US/US/on-the-road/automotive/garmin-driveassist-50lmt/on-the-road/automotive/garmin-driveluxe-50lmthd/on-the-road/533/bc-30-wireless-backup-camera/prod501486.html
+
+BC™ 30 Wireless Backup Camera
+
+Keep a Watchful Eye on What’s Behind You
+
+    Shows what’s behind your vehicle when in reverse
+    View footage right on your GPS navigator’s display* (sold separately)
+    Wire to constant power and toggle easily between camera and navigation modes
+    Wirelessly transmits video up to 45 feet
+    Rugged enough to withstand harsh weather
+
+A quality backup camera like the Garmin BC 30 can significantly enhance rearward visibility for drivers and, thus, help minimize the risk of “blind zone” accidents whenever your vehicle is moving in reverse.
+Take the Worry out of Backing Up
+
+When paired with a compatible GPS navigator, the BC 30 wireless backup camera helps you easily spot vehicles, pedestrians, pets and other hard-to-see obstructions behind your vehicle. If the camera is wired to your reverse lights for power, your navigator can automatically display camera footage every time the vehicle is shifted into reverse – and go back into navigation mode when shifted into a forward gear.
+See Clearly What Needs to be Seen
+
+As another option, you can wire the system to constant power, which allows you to toggle between the navigation display and backup display modes at the press of a button. The transmitter will send camera footage to your navigator’s receiver mounted up to 45 feet (13.7 meters) away (range varies based on installation; some vehicles may require an extension cable,
+
 
 
 

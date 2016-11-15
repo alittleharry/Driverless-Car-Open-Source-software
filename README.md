@@ -2,6 +2,10 @@
 
 Car driving open source software which could work with any type/make of car 
 Requirements
+
+http://www.perronerobotics.com/dak/
+
+
 Curate all the available best technologies and make them work together
 
 Determine location--- leverage Garmin GPS 
@@ -121,6 +125,41 @@ When paired with a compatible GPS navigator, the BC 30 wireless backup camera he
 See Clearly What Needs to be Seen
 
 As another option, you can wire the system to constant power, which allows you to toggle between the navigation display and backup display modes at the press of a button. The transmitter will send camera footage to your navigator’s receiver mounted up to 45 feet (13.7 meters) away (range varies based on installation; some vehicles may require an extension cable,
+
+
+Drop-in Autonomy Kit (DAK)
+Rapidly transform any car or truck into an automated self-driving vehicle using a drop-in kit.
+
+The Drop-in Autonomy Kit (DAK) is a system for outfitting existing vehicles with autonomous and remote control driving capabilities. The kit includes all of the actuators, sensors, electronics, and software needed in one package. The DAK allows for a 30 minute or less install into any vehicle and allows for an operator to sit in the driver's seat.
+
+DAK system key features:
+
+    Steering, brake, and throttle control
+    Installs in any vehicle in 30 minutes or less
+    Programmatic fully autonomous navigation
+    Route and trajectory planning
+    Sophisticated maneuver planning
+    Comfortably accommodate operator in driver's seat
+    Fully autonomous with a remote tele-operation option
+    
+    dak adapters/components
+
+The DAK includes a family of adapters for different pedal styles as well as adjustable components to fit various cabin layouts. The steering force reaction stand anchors firmly in the rear of the vehicle, leaving ample room for vehicle passengers and equipment.
+
+Man and Machine
+
+While the DAK delivers fully autonomous operation, sometimes you want to have a human ride along in the driver's seat. The placement of the DAK pedal actuators and steering force reaction stand allow for a person to sit comfortably in the driver's seat and, if needed, take control of the vehicle at any time with the press of a button.
+
+Local or Global Positioning
+
+The DAK includes sensors for position, heading and speed as well as a ruggedized computer with software for navigation and control. The DAK is not limited to GPS for position information. For testing that requires tunable precision or indoor/covered track operation, the DAK is available with an alternative local positioning system called Locata™. Locata uses a constellation of LocataLite™ units that you can use where you want, when you want. Locata™ allows the DAK to deliver tunable accuracy indoors or outdoors, rain or shine, 24/7.
+
+Control and Navigation Software
+
+The DAK system includes an embedded computer with software for defining and controlling your tests, as well as transferring and reviewing data.  The DAK software also performs real-time tasks for autonomous self-navigation and bot-to-bot communication. The DAK was developed based on requirements from the Insurance Institute for Highway Safety (IIHS) and features software support for performing tests, including NHTSA Crash-Imminent Braking (CIB), NHTSA Dynamic Brake Support (DBS), Euro NCAP Autonomous Emergency Braking (AEB) and others.
+
+Built using the MAX™ general purpose robotics and automated vehicle operating system, the DAK inherits a long legacy of sophisticated fully autonomous robotics functions, maneuvers, and programmable behaviors. 
+
 
 
 

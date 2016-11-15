@@ -59,5 +59,7 @@ Features
     Controlling students (optional): Management of students exercises performed by each of them with printed reports and listings.
     To use DriveSim you need the DS -PAD:lighting levers, turn signals and wipers, seat belt and parking brake.
 
+http://www.livitnow.com/projects/livitnow/
+Livit Now is the world’s first mobile-to-mobile VR app. With the free Livit Now app you can stream live from 360-degree video directly to friends and followers around the world.
 
 

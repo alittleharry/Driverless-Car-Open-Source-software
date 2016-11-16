@@ -3,7 +3,6 @@
 Car driving open source software which could work with any type/make of car 
 Requirements
 
-http://www.perronerobotics.com/dak/
 
 
 Curate all the available best technologies and make them work together
@@ -11,6 +10,38 @@ Curate all the available best technologies and make them work together
 Determine location--- leverage Garmin GPS 
 Determine Road objects Traffic lights, road signs, road lane markings---leverage sensors installed around car
 Determine car condition---leverage car dashboard data 
+
+http://www.ros.org/core-components/
+
+http://www.ros.org/integration/
+
+http://www.perronerobotics.com/dak/
+
+
+MoveIt! is a motion planning library that offers efficient, well-tested implementations of state of the art planning algorithms that have been used on a wide variety of robots, from simple wheeled platforms to walking humanoids. Whether you want to apply an existing algorithm or develop your own approach, MoveIt! has what you need for motion planning. Through its integration with ROS, MoveIt! can be used with any ROS-supported robot. Planning data can be visualized with rviz and rqt plugins, and plans can be executed via the ROS control system.
+
+OpenCV is the premier computer vision library, used in academia and in products around the world. OpenCV provides many common computer vision algorithms and utilities that you can use and build upon. ROS provides tight integration with OpenCV, allowing users to easily feed data published by cameras of various types into OpenCV algorithms, such as segmentation and tracking. ROS builds on OpenCV to provide libraries such as image_pipeline, which can be used for camera calibration, monocular image processing, stereo image processing, and depth image processing. If your robot has cameras connected through USB, Firewire, or Ethernet, ROS and OpenCV will make your life easier.
+
+Perhaps the most well-known tool in ROS, rviz provides general purpose, three-dimensional visualization of many sensor data types and any URDF-described robot.
+
+rviz can visualize many of the common message types provided in ROS, such as laser scans, three-dimensional point clouds, and camera images. It also uses information from the tf library to show all of the sensor data in a common coordinate frame of your choice, together with a three-dimensional rendering of your robot. Visualizing all of your data in the same application not only looks impressive, but also allows you to quickly see what your robot sees, and identify problems such as sensor misalignments or robot model inaccuracies.
+
+ROS provides rqt, a Qt-based framework for developing graphical interfaces for your robot. You can create custom interfaces by composing and configuring the extensive library of built-in rqt plugins into tabbed, split-screen, and other layouts. You can also introduce new interface components by writing your own rqt plugins .
+
+The rqt_graph plugin provides introspection and visualization of a live ROS system, showing nodes and the connections between them, and allowing you to easily debug and understand your running system and how it is structured.
+
+
+With the rqt_plot plugin, you can monitor encoders, voltages, or anything that can be represented as a number that varies over time. The rqt_plot plugin 
+
+allows you to choose the plotting backend (e.g., matplotlib, Qwt, pyqtgraph) that best fits your needs.
+
+rqt_publisher screenshot
+
+For monitoring and using topics, you have the rqt_topic and rqt_publisher plugins. The former lets you monitor and introspect any number of topics being published within the system. The latter allows you to publish your own messages to any topic, facilitating ad hoc experimentation with your system.
+
+
+
+MoveIt! 
 
 Instal LIDAR system, short for Light Detection and Ranging system provides accurate 3D information on the surrounding environment Using this data, the processor implements object identification, motion vector determination, collision prediction, and avoidance strategies. The LIDAR unit is well-suited to "big picture" imaging, and provides the needed 360⁰ view by using a rotating, scanning mirror assembly on the top of the car. The data collected would be used to calculate the vehicles' position, speed, and direction relative to these external objects
 

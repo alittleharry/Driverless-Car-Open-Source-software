@@ -200,6 +200,16 @@ Steering: If a vehicle has electric power steering then it may be possible to ha
 
 Shifter: Many cars now incorporate fully electronic transmission controls. These would be totally software controllable. Other transmissions have electronic control but still retain a physical shifter. The physical shifter incorporates a connection to the transmission to operate the parking paw. In this and all other cases a third party actuator would be required to operate the shifter.
 
+The 'software' loop is described below.
+
+Capture Image: The software captures the image from the webcam using classes and methods available in the java media framework.
+Filter Colour: Then, the captured image is put through a simple colour filter - the orange stickers remain orange, everything else is changed to black.
+Dilate and Shrink: In order to coalesce the edges of the image of each sticker, the orange part of the image is dilated (black pixels next to orange ones are changed to orange), then shrunk (orange pixels near black ones are changed to black). This ensures that a stray pixel near the edge of an image of a sticker is not counted as a very small sticker.
+Detect Regions: Using a simple region-filling algorithm, the orange pixels are collected into groups, each group (hopefully) representing one sticker.
+Apply Geometry: The centre and size of each group is measured. The large one is assumed to be the goal, the other five to be the four corners and the front of the car. From this, the software finds the distance and angle from car to goal, and the orientation of the car. The software doesn't bother with real-world coordinates, it measures everything in pixels.
+Decide Strategy: Knowing the relative positions of the car and goal, the software applies a set of rules to decide what to do. An example might be if distance is LARGE and angle is between -5 to 5, then move straight forward.
+Drive! Once the decision is made, the appropriate commands are sent to the interface board. The software waits for a reasonable amount of time, captures another webcam image, and the software loop begins again.
+
 
 
 

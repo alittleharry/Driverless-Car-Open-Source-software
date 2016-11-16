@@ -63,6 +63,23 @@ PATH PLANNING
 An autonomous car needs to be able to safely navigate around any potential hazards in a highly dynamic environment. Sophisticated algorithms are employed to calculate free space–where the vehicle can drive–as well as anticipate how the environment may change. In addition, the vehicle must move in a smooth manner, to avoid surprises to the occupants, as well as other vehicles. Complex path planning takes all these factors into account to ultimately deliver a safe and enjoyable experience.
 - See more at: http://www.nvidia.com/object/driveworks.html#sthash.6A1IRgHN.dpuf
 
+Advanced Driver Assistance Systems (ADAS)
+Conventional ADAS technology can detect some objects, do basic classification, alert the driver of hazardous road conditions, and in some cases, slow or stop the vehicle. This level of ADAS is great for applications like blind spot monitoring, lane change assistance, and forward collision warnings.
+NVIDIA DRIVE™ PX 2 AI car computers take driver assistance to the next level. They take advantage of deep learning and include a software development kit (SDK) for autonomous driving called DriveWorks. This SDK gives developers a powerful foundation for building applications that leverage computationally intensive algorithms for object detection, map localization, and path planning.
+With NVIDIA self-driving car solutions, a vehicle's ADAS can discern a police car from a taxi; an ambulance from a delivery truck; or a parked car from one that is about to pull out into traffic. It can even extend this capability to identify everything from cyclists on the sidewalk to absent-minded pedestrians.
+- See more at: http://www.nvidia.com/object/advanced-driver-assistance-systems.html#sthash.kQS93q6F.dpuf
+
+Enjoy the ride with the digital cockpit
+NVIDIA uses the newest graphics processing architecture to deliver high-resolution, high frame-rate, photorealistic graphics for a range of applications. These include everything from rich, easy-to-read graphics and premium audio interfaces, to natural language processing, interactive cockpit controls, and 3D navigation with intuitive, glanceable displays.
+PERSONALIZE YOUR JOURNEY
+Traditional analog gauges and dials are going digital and demanding the highest levels of image quality. At the same time, the information displayed in the center stack and instrument cluster are starting to merge, placing very high demands on the cluster graphics system. NVIDIA solutions enable digital cockpit solutions.
+SURROUND VISION WITH ADVANCED RENDERING
+Conventional surround view systems show the driver a virtual view of the area around the car, but often have poor image quality due to warping effects from the fisheye camera lenses. NVIDIA uses sophisticated structure-from-motion and advanced stitching for better image rendering and reduced "ghosting", such as where a line on the pavement can appear in two places at once. 
+
+Powerful graphics enable NVIDIA to render a virtual car with high-detail models and realistic lighting effects, so you see what looks like your car, rather than a generic or toy model.
+- See more at: http://www.nvidia.com/object/automotive-infotainment-navigation.html#sthash.R2YzYUmQ.dpuf
+
+
 
 MoveIt! is a motion planning library that offers efficient, well-tested implementations of state of the art planning algorithms that have been used on a wide variety of robots, from simple wheeled platforms to walking humanoids. Whether you want to apply an existing algorithm or develop your own approach, MoveIt! has what you need for motion planning. Through its integration with ROS, MoveIt! can be used with any ROS-supported robot. Planning data can be visualized with rviz and rqt plugins, and plans can be executed via the ROS control system.
 

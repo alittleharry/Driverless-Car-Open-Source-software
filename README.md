@@ -192,6 +192,14 @@ World-Class Services
 
 With experienced, high quality autonomous engineers in short supply, you may want some help as you staff up your team. Perrone Robotics' Services Team is there to help any way you need it. We can fill in any gaps in expertise or we can implement an entire solution to your specs. And, of course, we provide world class support for our MAX platform. Help us help you, thats what we're here for!
 
+Brakes: If a vehicle is equipped with dynamic stability control then software control of the brakes is possible. Dynamic stability control incorporates all the needed pieces to operate the brakes without driver input. The base software will not incorporate software brake control and will require hacking to incorporate the feature. If a vehicle does not have dynamic stability control it will need a third party system that can press the brake pedal.
+
+Throttle: With the incorporation of throttle by wire the task has become far easier. There are provisions for accepting commands to control the throttle for diagnostic purposes. The latency can vary among systems. It may be necessary to hack the software to incorporate a direct bridge to the throttle commands. If the vehicle does not have throttle by wire it may be possible to use cruise control to substitute. Cruise controls operation at low speed and low throttle angle tends to be unstable and jittery. I would recommend installing a third party actuator.
+
+Steering: If a vehicle has electric power steering then it may be possible to have software controlled steering. These systems measure the torque from the steering wheel and then apply the same torque but in the opposite direction for a net torque of zero. They incorporate a steering angle sensor. As with just about everything else hacking the software would be required. If the vehicle does not have electric power steering (hydro electric does not count) the a third party actuator would be required.
+
+Shifter: Many cars now incorporate fully electronic transmission controls. These would be totally software controllable. Other transmissions have electronic control but still retain a physical shifter. The physical shifter incorporates a connection to the transmission to operate the parking paw. In this and all other cases a third party actuator would be required to operate the shifter.
+
 
 
 

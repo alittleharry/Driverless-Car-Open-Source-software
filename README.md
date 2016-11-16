@@ -11,11 +11,57 @@ Determine location--- leverage Garmin GPS
 Determine Road objects Traffic lights, road signs, road lane markings---leverage sensors installed around car
 Determine car condition---leverage car dashboard data 
 
+http://www.nvidia.com/object/drive-px.html
+
+http://www.nvidia.com/object/driveworks.html
+
+
 http://www.ros.org/core-components/
 
 http://www.ros.org/integration/
 
 http://www.perronerobotics.com/dak/
+
+
+NVIDIA DRIVE™ PX 2 is the open AI car computing platform that enables automakers and their tier 1 suppliers to accelerate production of automated and autonomous vehicles. It scales from a palm-sized, energy efficient module for AutoCruise capabilities, to a powerful AI supercomputer capable of autonomous driving. - See more at: http://www.nvidia.com/object/drive-px.html#sthash.ChXXYuPo.dpuf
+
+The new single-processor configuration of DRIVE PX 2 for AutoCruise functions —which include highway automated driving and HD mapping—consumes just 10 watts of power. Plus, it enables vehicles to use deep neural networks to process data from multiple cameras and sensors.
+ 
+DRIVE PX 2 can understand in real-time what's happening around the vehicle, precisely locate itself on an HD map, and plan a safe path forward. It's the world's most advanced self-driving car platform—combining deep learning, sensor fusion, and surround vision to change the driving experience.
+ 
+The scalable architecture is available in a variety of configurations. These range from one passively cooled mobile processor operating at 10 watts, to a multi-chip configuration with two mobile processors and two discrete GPUs delivering 24 trillion deep learning operations per second. Multiple DRIVE PX 2 platforms can be used in parallel to enable fully autonomous driving.
+ 
+With a unified architecture, deep neural networks can be trained on a system in the data center, and then deployed in the car.
+- See more at: http://www.nvidia.com/object/drive-px.html#sthash.ChXXYuPo.dpuf
+
+http://www.nvidia.com/object/driveworks.html
+
+Developer Tools for Self-Driving Cars
+Fully autonomous and driver assistance technologies have become a key focus for every car manufacturer, as well as transportation services and technology companies.
+ 
+The car needs to know exactly where it is, recognize the objects around it, and continuously calculate the optimal path for a safe driving experience. NVIDIA DriveWorks software development kit (SDK) gives developers a foundation upon which to build applications, leveraging the computationally intensive algorithms for object detection, map localization, and path planning.
+- See more at: http://www.nvidia.com/object/driveworks.html#sthash.6A1IRgHN.dpuf
+
+
+DETECTION
+ 
+NVIDIA DRIVE PX 2 platforms are built to enable sensor fusion, deep learning, and advanced computer vision (CV) libraries and primitives. Together, these technologies deliver an impressive array of detection and tracking capabilities.
+- See more at: http://www.nvidia.com/object/driveworks.html#sthash.6A1IRgHN.dpuf
+
+END-TO-END HD MAPPING
+ 
+Mapping is a vital aspect of autonomous driving. NVIDIA has an open system for rapidly creating HD maps and keeping them updated. This end-to-end system is built on DriveWorks to enable deep learning in the car and in the cloud for the most efficient map creation--compressing what has traditionally taken weeks down to minutes. Learn more.
+- See more at: http://www.nvidia.com/object/driveworks.html#sthash.6A1IRgHN.dpuf
+
+LOCALIZATION
+ 
+Understanding exactly where an autonomous vehicle is on the road is critical to it being able to safely drive down the road. The ability to integrate high definition mapping data, such as that from map leader HERE, will ensure that the vehicle is able to not only maintain its proper position in the lane, but to navigate safely through any type of complex traffic scenarios.
+- See more at: http://www.nvidia.com/object/driveworks.html#sthash.6A1IRgHN.dpuf
+
+PATH PLANNING
+ 
+An autonomous car needs to be able to safely navigate around any potential hazards in a highly dynamic environment. Sophisticated algorithms are employed to calculate free space–where the vehicle can drive–as well as anticipate how the environment may change. In addition, the vehicle must move in a smooth manner, to avoid surprises to the occupants, as well as other vehicles. Complex path planning takes all these factors into account to ultimately deliver a safe and enjoyable experience.
+- See more at: http://www.nvidia.com/object/driveworks.html#sthash.6A1IRgHN.dpuf
 
 
 MoveIt! is a motion planning library that offers efficient, well-tested implementations of state of the art planning algorithms that have been used on a wide variety of robots, from simple wheeled platforms to walking humanoids. Whether you want to apply an existing algorithm or develop your own approach, MoveIt! has what you need for motion planning. Through its integration with ROS, MoveIt! can be used with any ROS-supported robot. Planning data can be visualized with rviz and rqt plugins, and plans can be executed via the ROS control system.
